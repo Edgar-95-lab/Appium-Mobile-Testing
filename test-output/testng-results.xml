@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-30T22:03:36Z" name="Default suite" finished-at="2022-08-30T22:04:22Z" duration-ms="45918">
+    <groups>
+    </groups>
+    <test started-at="2022-08-30T22:03:36Z" name="Default test" finished-at="2022-08-30T22:04:22Z" duration-ms="45918">
+      <class name="com.appiumtest.HybridApp_WithChrome">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.appiumtest.HybridApp_WithChrome@2c78d320]" started-at="2022-08-30T22:03:36Z" name="ConfigureAppium" finished-at="2022-08-30T22:03:43Z" duration-ms="7024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="hybridAppChrome()[pri:0, instance:com.appiumtest.HybridApp_WithChrome@2c78d320]" started-at="2022-08-30T22:03:43Z" name="hybridAppChrome" description="Hybrid app using Chrome" finished-at="2022-08-30T22:04:21Z" duration-ms="38275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hybridAppChrome -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.appiumtest.HybridApp_WithChrome@2c78d320]" started-at="2022-08-30T22:04:21Z" name="TearDown" finished-at="2022-08-30T22:04:22Z" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.appiumtest.HybridApp_WithChrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
